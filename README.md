@@ -32,9 +32,21 @@ These solutions are shared for **learning and reference purposes only**.
 - **Description:** Generates a symmetric diamond pattern that alternates between palindromic numbers (odd rows) and asterisks (even rows).
 - **Files:** `DaimondPattern.java`
 
+### Lab 3 - Delivery Cost Calculator
+
+- **Key Concepts:** Methods, enums, input validation, conditional logic, cost calculation helpers
+- **Description:** Calculates delivery cost based on package weight, distance, delivery speed, and customer type. It also compares available delivery options and prints the cheapest one.
+- **Files:** `DeliveryCalculator.java`
+
+### Lab 4 - Math Battle
+
+- **Key Concepts:** Random number generation, enums, control flow, input argument validation, game simulation
+- **Description:** Simulates a math game where two players answer randomly generated arithmetic questions over multiple rounds and the final scores are compared.
+- **Files:** `MathBattle.java`
+
 ### Future Labs
 
-This repository will be updated with upcoming lab assignments throughout the semester.
+This repository will continue to be updated with upcoming lab assignments throughout the semester.
 
 ---
 
@@ -42,25 +54,24 @@ This repository will be updated with upcoming lab assignments throughout the sem
 
 1. **Clone the repository**
 
-	```bash
-	git clone https://github.com/one-byte-man/COM2044_OOP_Labs.git
-	```
+   ```bash
+   git clone https://github.com/one-byte-man/COM2044_OOP_Labs.git
+   ```
 
 2. **Import into Eclipse IDE**
 
-	Open Eclipse IDE and import the project folder.
+   Open Eclipse IDE and import the project folder.
 
 3. **Configure Java version**
 
-	Ensure the project build path is set to **JavaSE-21**.
+   Ensure the project build path is set to **JavaSE-21**.
 
 4. **Run the programs**
 
-	Run the `main` methods in `AccountTest.java` or `DaimondPattern.java`.
+   Run the `main` methods in `AccountTest.java`, `DaimondPattern.java`, `DeliveryCalculator.java`, or `MathBattle.java`.
 
 ---
 
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-
